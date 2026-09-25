@@ -1,4 +1,4 @@
-# Bug Assignment – Meyve Dişçi
+# Bug Assignment – Merve Dişçi
 
 Your program: **`atm.py`**
 
