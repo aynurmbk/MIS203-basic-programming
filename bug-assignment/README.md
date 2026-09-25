@@ -70,5 +70,3 @@ Now you have a copy: `https://github.com/<your-username>/MIS203-basic-programmin
 * 3 bugs fixed and the output is correct
 * Only your folder is changed
 * The PR title and description are written as explained above
-
-Deadline: October 11, 2026.
